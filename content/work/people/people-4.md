@@ -9,6 +9,8 @@ tags:
 - work # homepage
 - archive # all posts
 - people
+draft: true
+
 ---
 
 ## Markdown
