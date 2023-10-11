@@ -1,11 +1,12 @@
 ---
-title: Imprint
+title: Acerca de
 rss_ignore: true
 layout: page
 menu:
-  footer:
+#  footer:
+#    weight: 1
+  main:
     weight: 1
 ---
 
-(Put your imprint here)
-hola
+Poner biografia

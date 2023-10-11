@@ -1,6 +1,6 @@
 ---
 title: miguehm
-linktitle: Home
+linktitle: Inicio
 description: Bienvenid@ a mis ojos
 #lastmod: 2023-07-05
 featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
