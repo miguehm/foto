@@ -9,8 +9,8 @@ theme = "gallery"
 timeout = "100s"
 
 [params]
-  title = "My Gallery"
-  description = "Example site for hugo-theme-gallery"
+  title = "Portafolio"
+  description = "Fotografías de miguehm"
   defaultTheme = "dark"
 
 [author]
