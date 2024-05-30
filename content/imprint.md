@@ -8,5 +8,4 @@ menu:
   main:
     weight: 1
 ---
-
-Poner biografia
+Miguel Hernández Moreno, 3 años de experiencia con formación autodidacta, obsesionado con la belleza de lo que muchos consideran intrascendente.
